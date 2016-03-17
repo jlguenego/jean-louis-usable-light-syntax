@@ -6,7 +6,8 @@ A light syntax theme for Atom, which tries to be more usable.
 For old people like me with bad eyes...
 
 - The contrast is maximized by using a black color instead of gray nuances.
-- The font size is bigger
+- the line number are inside a gray bar to better identify where
+the file content starts.
 
 ## Installation
 
