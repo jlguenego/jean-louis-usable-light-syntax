@@ -1,0 +1,11 @@
+{
+  "name": "jean-louis-usable-light-syntax",
+  "theme": "syntax",
+  "version": "0.0.0",
+  "description": "A usable light syntax theme for Atom",
+  "repository": "https://github.com/jlguenego/jean-louis-usable-light-syntax",
+  "license": "MIT",
+  "engines": {
+    "atom": ">0.40.0"
+  }
+}
